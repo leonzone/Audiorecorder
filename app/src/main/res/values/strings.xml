@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">录音机</string>
+    <string name="file_name">Rec_</string>
+    <string name="saved_file">文件%s已保存"</string>
+    <string name="more_by_left">左滑使用快捷功能</string>
+    <string name="checkin">查看</string>
+    <string name="list">list</string>
+</resources>
